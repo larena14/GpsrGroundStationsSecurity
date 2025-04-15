@@ -57,7 +57,6 @@ Main features include:
 │   ├── Relazione_Aloia_Arena_Nasso_Saporito.pdf
 │   └── Report_tecnico_Aloia_Arena_Nasso_Saporito.pdf
 ```
----
 
 ---
 
